@@ -1,0 +1,24 @@
+# ninja log v5
+274	5096	7360897887818892	CMakeFiles/firstGUI.dir/mainwindow.cpp.obj	910bc2c466e28dd9
+268	3053	7360897867467495	CMakeFiles/firstGUI.dir/login.cpp.obj	4a6b994f33bdafea
+18	244	7360897839390504	firstGUI_autogen/timestamp	3263fd24b0b188e3
+5096	6330	7360897900174369	firstGUI.exe	856eae5821c654b6
+18	244	7360897839390504	firstGUI_autogen/mocs_compilation.cpp	3263fd24b0b188e3
+18	244	7360897839390504	C:/Users/aryas/OneDrive/Documents/firstGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/firstGUI_autogen/mocs_compilation.cpp	3263fd24b0b188e3
+18	244	7360897839390504	C:/Users/aryas/OneDrive/Documents/firstGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/firstGUI_autogen/timestamp	3263fd24b0b188e3
+803	5516	7360849207567027	CMakeFiles/firstGUI.dir/firstGUI_autogen/mocs_compilation.cpp.obj	89a2e289e64942c2
+809	5646	7360849208873596	CMakeFiles/firstGUI.dir/main.cpp.obj	403a26230d74a0ee
+10	331	7360901661356679	firstGUI_autogen/timestamp	3263fd24b0b188e3
+10	331	7360901661356679	firstGUI_autogen/mocs_compilation.cpp	3263fd24b0b188e3
+10	331	7360901661356679	C:/Users/aryas/OneDrive/Documents/firstGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/firstGUI_autogen/timestamp	3263fd24b0b188e3
+10	331	7360901661356679	C:/Users/aryas/OneDrive/Documents/firstGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/firstGUI_autogen/mocs_compilation.cpp	3263fd24b0b188e3
+350	4086	7360901698926186	CMakeFiles/firstGUI.dir/login.cpp.obj	4a6b994f33bdafea
+360	6043	7360901718369435	CMakeFiles/firstGUI.dir/mainwindow.cpp.obj	910bc2c466e28dd9
+6044	7367	7360901731664839	firstGUI.exe	856eae5821c654b6
+56	501	7386836654630598	firstGUI_autogen/timestamp	3263fd24b0b188e3
+56	501	7386836654630598	firstGUI_autogen/mocs_compilation.cpp	3263fd24b0b188e3
+56	501	7386836654630598	C:/Users/aryas/OneDrive/Documents/firstGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/firstGUI_autogen/timestamp	3263fd24b0b188e3
+56	501	7386836654630598	C:/Users/aryas/OneDrive/Documents/firstGUI/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/firstGUI_autogen/mocs_compilation.cpp	3263fd24b0b188e3
+526	4300	7386836692684530	CMakeFiles/firstGUI.dir/login.cpp.obj	4a6b994f33bdafea
+537	6036	7386836709924186	CMakeFiles/firstGUI.dir/mainwindow.cpp.obj	910bc2c466e28dd9
+6037	7730	7386836726859222	firstGUI.exe	856eae5821c654b6
